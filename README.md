@@ -1,7 +1,5 @@
 # Portefolio of Nina Allouch 
 
-
-
 **Research Engineer in Bioinformatics** · Institut Pasteur de Guadeloupe
 
 I work at the intersection of microbiology and data science, developing computational workflows to make sense of multi-omics datasets. My research interest focuses on microbial communities and their functional roles, notably in the medical and agronomical field.
@@ -16,10 +14,15 @@ Each project will present a short methodology and the workflows used (if any) an
 
 - **Comparative Genomics** : de novo assembly, annotation, pangenome analysis
 - **Transcriptomics** : differential expression analysis, host-pathogen
-- **Metagenomics & Microbiome** : community profiling, diversity analysis, functional annotation
+- **Metagenomics & Metaproteomic** : community profiling, diversity analysis, functional annotation
 - **Multi-omics integration** : connecting metagenomic, transcriptomic and proteomic layer
 
+**Scripts**
 
+- **My first Nexflow** : a Nextflow I did to learn how to write Nextflow pipeline witht the example of the steps needed to launch the tool blobtools
+- **Useful R scripts**
+- **Useful Bash / Python scripts**
+- **Core Nextflow** : a list of core nextflow that I used and the troubleshooting + resolutions I might have encountered 
 
 ## Additionnal informations
 
