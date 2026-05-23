@@ -12,7 +12,7 @@ This repository gathers pipelines, results and useful scripts developed during m
 
 Each project will present a short methodology and the workflows used (if any) and the biological results and interpretation resulting from the analysis. At the end, the linked to the related publication if relevant.
 
-- **Comparative Genomics** : de novo assembly, annotation, pangenome analysis
+- **[Comparative Genomics](https://github.com/ton-username/metagenomics-workflows)** : de novo assembly, annotation, pangenome analysis
 - **Transcriptomics** : differential expression analysis, host-pathogen
 - **Metagenomics & Metaproteomic** : community profiling, diversity analysis, functional annotation
 - **Multi-omics integration** : connecting metagenomic, transcriptomic and proteomic layer
